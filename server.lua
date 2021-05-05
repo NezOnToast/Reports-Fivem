@@ -1,5 +1,5 @@
 -- Config --
-webhookURL = 'https://discord.com/api/webhooks/837049942174334996/Of7Rxzjl0Dp1O0h9SBJG1yrW4ApxthyZeFAi45ZA98MKh4uYmlEGtCrEnNcu_91kKeVk'
+webhookURL = 'yourwebhookhere'
 displayIdentifiers = true;
 name = 'Report+' -- EG [Report]
 text = 'Thank you for submitting a report!' -- EG Thank you for keeping our community safe!
